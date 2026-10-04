@@ -1,0 +1,11 @@
+### Situation
+
+Our regional operations and finance teams have been working with a cleaned total revenue figure of Rs 97358.3. This figure reflects a necessary data cleansing process that removed duplicate orders, which initially inflated our raw total revenue to Rs 99860.2. The difference of Rs 2501.9 highlights the importance of accurate data for financial reporting and operational planning. Furthermore, our analysis of monthly revenue identified March 2026 as our true peak month, achieving Rs 20318.9.
+
+### Complication
+
+The initial raw data presented a misleading picture of our performance in January 2026, showing an apparent revenue of Rs 29582.1. This figure was significantly inflated by outliers. After correction, the true revenue for January 2026 was Rs 11637.1. This discrepancy underscores the risk of making strategic decisions based on unverified data. Additionally, our return rates vary significantly by payment method: COD orders have a 44.4% return rate, CARD orders 14.7%, and UPI orders 18.9%. The highest-risk segment identified is COD orders from City Tier 2, exhibiting a concerning return rate of 54.5%.
+
+### Resolution
+
+To mitigate these issues, we must continue to prioritize robust data cleaning protocols to ensure all financial reporting is based on accurate figures, preventing a recurrence of the January 2026 outlier problem. Addressing the high return rates, particularly for COD orders, is critical. We recommend a focused strategy for City Tier 2 COD orders, given their 54.5% return rate. This could involve exploring pre-payment incentives or implementing stricter order verification processes for this segment to reduce operational costs associated with returns and improve overall profitability.
